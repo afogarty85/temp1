@@ -1,0 +1,11 @@
+{
+  "clientPrincipal": {
+    "identityProvider": "aad",
+    "userId": "xd123",
+    "userDetails": "afogarty@microsoft.com",
+    "userRoles": [
+      "authenticated",
+      "anonymous"
+    ]
+  }
+}
